@@ -1,4 +1,4 @@
-# Socical-auth
+# Django-React-Socical-auth
 react django social auth fullstack social authentication extension of blog app
 # About
 Build a full-stack single-page application (SPA) having 3 components as described below.
